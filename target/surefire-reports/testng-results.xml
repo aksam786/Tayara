@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="119643" started-at="2021-05-09T16:21:40Z" finished-at="2021-05-09T16:23:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="119643" started-at="2021-05-09T16:21:40Z" finished-at="2021-05-09T16:23:40Z">
+      <class name="Tayara.TayaraAutomation.SearchAllCategoriesTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.SearchAllCategoriesTest@13fee20c]" name="Setup" is-config="true" duration-ms="11338" started-at="2021-05-09T16:23:28Z" finished-at="2021-05-09T16:23:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="SearchAllCategoriesBarTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.SearchAllCategoriesTest@13fee20c]" name="SearchAllCategoriesBarTest" duration-ms="325" started-at="2021-05-09T16:23:40Z" finished-at="2021-05-09T16:23:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.SearchAllCategoriesTest.SearchAllCategoriesBarTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchAllCategoriesBarTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.SearchAllCategoriesTest@13fee20c]" name="broweserClosure" is-config="true" duration-ms="136" started-at="2021-05-09T16:23:40Z" finished-at="2021-05-09T16:23:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.SearchAllCategoriesTest -->
+      <class name="Tayara.TayaraAutomation.ProsButtonTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.ProsButtonTest@64616ca2]" name="Setup" is-config="true" duration-ms="13571" started-at="2021-05-09T16:23:12Z" finished-at="2021-05-09T16:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="ProsTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.ProsButtonTest@64616ca2]" name="ProsTest" duration-ms="2370" started-at="2021-05-09T16:23:26Z" finished-at="2021-05-09T16:23:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.ProsButtonTest.ProsTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProsTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.ProsButtonTest@64616ca2]" name="broweserClosure" is-config="true" duration-ms="163" started-at="2021-05-09T16:23:28Z" finished-at="2021-05-09T16:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.ProsButtonTest -->
+      <class name="Tayara.TayaraAutomation.CreateAnAdTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.CreateAnAdTest@26ba2a48]" name="Setup" is-config="true" duration-ms="11100" started-at="2021-05-09T16:22:21Z" finished-at="2021-05-09T16:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="CreateAnAdPageTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.CreateAnAdTest@26ba2a48]" name="CreateAnAdPageTest" duration-ms="144" started-at="2021-05-09T16:22:32Z" finished-at="2021-05-09T16:22:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.CreateAnAdTest.CreateAnAdPageTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAdPageTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.CreateAnAdTest@26ba2a48]" name="broweserClosure" is-config="true" duration-ms="4245" started-at="2021-05-09T16:22:32Z" finished-at="2021-05-09T16:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.CreateAnAdTest -->
+      <class name="Tayara.TayaraAutomation.LoadMoreButtonTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.LoadMoreButtonTest@5f2050f6]" name="Setup" is-config="true" duration-ms="20949" started-at="2021-05-09T16:22:36Z" finished-at="2021-05-09T16:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="LoadMoreButtonPageTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.LoadMoreButtonTest@5f2050f6]" name="LoadMoreButtonPageTest" duration-ms="248" started-at="2021-05-09T16:22:57Z" finished-at="2021-05-09T16:22:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.LoadMoreButtonTest.LoadMoreButtonPageTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadMoreButtonPageTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.LoadMoreButtonTest@5f2050f6]" name="broweserClosure" is-config="true" duration-ms="568" started-at="2021-05-09T16:22:58Z" finished-at="2021-05-09T16:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.LoadMoreButtonTest -->
+      <class name="Tayara.TayaraAutomation.AllCategoriesTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.AllCategoriesTest@42d3bd8b]" name="Setup" is-config="true" duration-ms="10070" started-at="2021-05-09T16:21:40Z" finished-at="2021-05-09T16:21:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="AllCategoriesPageTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.AllCategoriesTest@42d3bd8b]" name="AllCategoriesPageTest" duration-ms="26226" started-at="2021-05-09T16:21:51Z" finished-at="2021-05-09T16:22:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.AllCategoriesTest.AllCategoriesPageTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllCategoriesPageTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.AllCategoriesTest@42d3bd8b]" name="broweserClosure" is-config="true" duration-ms="4077" started-at="2021-05-09T16:22:17Z" finished-at="2021-05-09T16:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.AllCategoriesTest -->
+      <class name="Tayara.TayaraAutomation.LoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Tayara.TayaraAutomation.LoginTest@3b81a1bc]" name="Setup" is-config="true" duration-ms="13225" started-at="2021-05-09T16:22:58Z" finished-at="2021-05-09T16:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="LoginPageTest(java.lang.reflect.Method)[pri:0, instance:Tayara.TayaraAutomation.LoginTest@3b81a1bc]" name="LoginPageTest" duration-ms="394" started-at="2021-05-09T16:23:11Z" finished-at="2021-05-09T16:23:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Tayara.TayaraAutomation.LoginTest.LoginPageTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="broweserClosure()[pri:0, instance:Tayara.TayaraAutomation.LoginTest@3b81a1bc]" name="broweserClosure" is-config="true" duration-ms="459" started-at="2021-05-09T16:23:12Z" finished-at="2021-05-09T16:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broweserClosure -->
+      </class> <!-- Tayara.TayaraAutomation.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
